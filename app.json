@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "jejemonizer",
+    "name": "Jejemonizer",
     "slug": "jejemonizer",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kingdeorayom.jejemonizer"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "15cdadb0-b87b-4a1c-a7f2-2dcbea2a4a1d"
+      }
     }
   }
 }
